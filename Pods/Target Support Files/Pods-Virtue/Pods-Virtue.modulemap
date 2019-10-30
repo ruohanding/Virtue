@@ -1,0 +1,6 @@
+framework module Pods_Virtue {
+  umbrella header "Pods-Virtue-umbrella.h"
+
+  export *
+  module * { export * }
+}
